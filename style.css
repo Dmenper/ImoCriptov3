@@ -1,0 +1,101 @@
+body {
+  background-color: #f8f9fa;
+}
+
+#negocio{
+  background-image:url("image/Criptografics.jpg") ;
+  color: #f8f9fa;
+}
+
+#planohabit{
+  margin-left: 4rem;
+  margin-right: 4rem;
+  margin-top: 1rem;
+  text-align: center;
+  
+}
+
+.criptonav{
+ background-color: white;
+ margin: auto;
+}
+
+#navbarNavDropdown{
+  margin: 3rem;
+  color: #f8f9fa;
+}
+
+.botton_nav{
+   margin-left: 100px ;
+}
+
+.habit{
+  padding: 40px ;
+}
+
+.calendario{
+  padding: 40px;
+
+}
+
+.navbar-nav{
+  color:#f8f9fa;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 576px) {
+  .login-container {
+      max-width: 100%;
+      margin: 20px;
+  }
+}
+.register-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 576px) {
+  .register-container {
+      max-width: 100%;
+      margin: 20px;
+  }
+}
+
+.preorder-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 576px) {
+  .preorder-container {
+      max-width: 100%;
+      margin: 20px;
+  }
+}
+
+.form_nav{
+  align-items: end;
+}
+
+.registomarg{
+  padding: 4rem;
+}
+
+.img.app{
+  border-radius: 40%;
+}
+
+
